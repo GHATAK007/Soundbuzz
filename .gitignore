@@ -1,0 +1,27 @@
+# Node backend
+/backend_connection/node_modules/
+/backend_connection/.env
+/backend_connection/.DS_Store
+/backend_connection/*.log
+/backend_connection/.vscode/
+
+# Angular frontend
+/Angular_Project/node_modules/
+/Angular_Project/.DS_Store
+/Angular_Project/.env
+/Angular_Project/.vscode/
+/Angular_Project/dist/
+
+# OS and editor junk
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+.env
+.vscode/
+.idea/
+
+# Misc
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
